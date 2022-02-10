@@ -1,0 +1,22 @@
+{
+    "name": "PNBTUTOR.ID",
+    "short_name": "PNBTUTOR",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiFZ6afjABt2Z8nhStqDXKlzY-7u5VIJQp9_y09gmTLktc9z8I83a1Ju4gJ4t5Envl36QC1M_Sf7ZacJDNErc7qKXNXmA2YtTsURnYlk4dkZuBkldDfLf_uaMCQ9-Lu0sw-1ETgKUAI3xdZ5_lYeUEXiM0r9xMMdfCIwKGg03xeAbU4A--DfQf6NuzF=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgRekhTT_f0vbGDNsHf-hGz4Q2sXDMNlzzw-PgaaYlNlG0tA-_ZPSz42hvn1z1DIo9WDYHlLJ3TsbTGIPj1pAPbVtG1iURajBw8w-X3HlxYoMwT3Vif-FjNDSXZBkCaM_b1HqpzodNTTdlR19WOu7E6ZrMFquh32FLmxEi0CeHVjKbHWbEo8zp2SmkB=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.pnbtutor.id"
